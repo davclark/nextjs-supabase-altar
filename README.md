@@ -2,6 +2,8 @@
 
 This example will set you up for a very common situation: users can sign up with a magic link and then update their account with public profile information, including a profile image.
 
+It was copied from https://github.com/supabase/supabase/tree/master/examples/nextjs-ts-user-management and configured from Vercel.
+
 This demonstrates how to use:
 
 - User signups using Supabase [Auth](https://supabase.com/auth).
