@@ -119,7 +119,7 @@ export default function Account({ session }: { session: AuthSession }) {
   return (
     <div className="account">
       <div>
-        <label htmlFor="avatar">Avatar image</label>
+        <label htmlFor="avatar">Avatar image (optional)</label>
         <div className="avatarField">
           <div className="avatarContainer">
             {avatar ? (
